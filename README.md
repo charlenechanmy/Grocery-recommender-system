@@ -31,4 +31,4 @@ Help designed a media plan by
 
 ## 4. Project Flow
 
-![Presentation1](https://github.com/charlenechanmy/Grocery-recommender-system/assets/86695082/07b3916a-d2d4-4c8d-8eb9-ab11bddb644a)
+![Presentation1](https://github.com/charlenechanmy/Grocery-recommender-system/assets/86695082/ff131d88-4238-4cbe-8491-ce47f95c8ff7)

@@ -32,3 +32,7 @@ Designed a media plan by
 ## 4. Project Flow
 
 ![Presentation1](https://github.com/charlenechanmy/Grocery-recommender-system/assets/86695082/ff131d88-4238-4cbe-8491-ce47f95c8ff7)
+
+## 5. Useful Links
+Project slides: [What The Grocery.pdf](https://github.com/charlenechanmy/Grocery-recommender-system/files/12505293/What.The.Grocery.pdf)
+

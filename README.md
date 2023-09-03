@@ -4,7 +4,7 @@
 The Government has collaborated with a media company to design a bespoke media plan to encourage healthy eating based on different population segments and their behaviour. At the same time, the Government wants to help people minimize their spending on packaged food.
 
 ## 2. Objectives
-Help designed a media plan by
+Designed a media plan by
 1. Understanding if the increase in consumption of packaged food leads to increase in calorie intake as this can lead to health issues
 2. Understanding and identifying different consumer segments based on purchase data, media data and calories consumption.
 3. Design an optimal basket to recommend to the different consumer segments.
